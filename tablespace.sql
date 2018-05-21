@@ -1,0 +1,1 @@
+ create tablespace loundry datafile 'C:\app\Toriq\oradata\project\app_loundry.dbf' size 900M;

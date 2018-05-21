@@ -1,0 +1,2 @@
+insert into Admin (id_admin,nama_admin,alamat_admin,username,password) values ('1','Admin','admin','admin','admin');
+insert into Admin (id_admin,nama_admin,alamat_admin,username,password) values ('2','Manager','manager','manager','manager');
